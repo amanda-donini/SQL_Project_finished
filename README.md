@@ -31,7 +31,9 @@ success or lack thereof relative to Ironhack.
 ## Hypotheses / Questions
 
 In this project we answered two business questions:
+
 1- Analyze the best-rated bootcamps in cities where Iron hack has a campus 
+
 2- Analyze the cost compared to duration of different courses in various tech bootcamps which have similar to programs that Ironhack hosts. (Similar: UI/UX Design – Data Analysis – Cuber security – Web Development) 
 
 
@@ -57,8 +59,8 @@ the tables generated in SQL and it's connexions and the SQL file with the script
 - EDR
     file with the design of the tables generated in SQL and it's connexions.
 
-.sql
-- the SQL file with the schema for the tables.
+- .sql
+      the SQL file with the schema for the tables.
 
 
 
