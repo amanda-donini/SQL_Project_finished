@@ -108,7 +108,7 @@ In our project, we followed a well-structured workflow that allowed us to effici
 ## Links
 
 [Repository]
-[Slides]([https://github.com/zepcerqueira/project-webscraping-apis.git](https://docs.google.com/presentation/d/1ZTWEF00NYc6eKUwuMUJ2sQ3dSOO94RHyWAxTlJrtVvA/edit#slide=id.p))  
+[Slides](https://docs.google.com/presentation/d/1ZTWEF00NYc6eKUwuMUJ2sQ3dSOO94RHyWAxTlJrtVvA/edit#slide=id.p)  
 [Switchup website](https://www.switchup.org/coding-bootcamps-reviews)
 [Tableau link1](https://public.tableau.com/app/profile/ly.nguyen7178/viz/DashSQL/Dashboard1?publish=yes)
 [Tableau link2](https://public.tableau.com/app/profile/amanda.donini/viz/SQL_Project_17006673964750/Costspercoursecomparedtoduration?publish=yes) 
