@@ -56,7 +56,7 @@ the tables generated in SQL and it's connexions and the SQL file with the script
 - costs_df.csv
     csv file generated in the scraper_modified.ipynb file, to import the information from costs to tableau to make the analyses of the second business question and the data visualization from that question.
 
-- ERD
+- ERD_Schema.pdf
     file with the design of the tables generated in SQL and it's connexions.
 
 - .sql
